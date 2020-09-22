@@ -1,0 +1,215 @@
+body
+{
+margin:0px;
+padding:0px;
+font:15px/1.5 Arial, Helvetica,sans-serif;
+}
+header{
+    border-bottom:orangered 5px solid;
+    background-color:gray;
+    color:white;
+    min-height:80px;
+}
+.container{
+    width:90%;
+    
+    margin:5px auto;
+    overflow:hidden;
+
+}
+header div #branding{
+    float: left;
+}
+#branding h1{
+    float:left;
+}
+header nav{
+    float: right;
+    margin-top:20px;
+}
+header ul{
+    margin:0px;
+    padding:0px;
+
+}
+header ul li{
+    display:inline-block;
+    padding:0 20px 20px 0;
+}
+header a{
+    color:white;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-size:16px; 
+    padding:10px;
+    float:left;
+    
+}
+header a:hover{
+    font-weight:bold;
+}
+#branding span
+{
+    color:orangered;
+}
+li span{
+    color:orangered;
+}
+#showcase{
+    background: url('./../img/showcase.jpg');
+    min-height:400px;
+    color:white;
+    text-align:center;
+    padding:10px;
+}
+#showcase h1{
+    margin-top:100px;
+    font-size:55px;
+    margin-bottom:10px;
+
+}
+#showcase p{
+    font-size:25px;
+}
+#newsletter{
+    background-color:gray;
+    color:white;
+    padding:15px;
+}
+#newsletter h1{
+    float:left; 
+    padding:10px;
+}
+#newsletter form{
+    float:right;
+    padding:30px;
+}
+#newsletter input[type="email"]
+{
+    padding:10px;
+    width:250px;
+    
+}
+#newsletter button{
+    background-color:orangered;
+    color:white;
+    padding:12px;
+    width:100px;
+    border:none;
+}
+#boxes{
+    margin-top:20px;
+}
+#boxes img{
+    width:90px;
+}
+#boxes .box{
+    float:left;
+    width:30%;
+    text-align:center;
+    padding:10px;
+
+}
+footer{
+    background-color:orangered;
+    color:white;
+    text-align:center;
+    padding:25px;
+    margin-top:10px;
+}
+ header h1{
+     float: left;
+}
+header nav{
+    float:right;
+}
+span{
+    color:orangered;
+}
+#newsletter{
+    background-color:gray;
+    color:white;
+    padding:10px;
+}
+section form,button{
+    float:right; 
+    
+}
+section#container_1{
+    width:90%;
+    margin:5px auto;
+    overflow:hidden;
+    margin:top;
+}
+div.right{
+    width:30%;
+    background-color:gray;
+    color:white;
+    float:right;
+    text-align:justify;
+    padding:10px;
+    margin-top:30px;
+}
+div.left{
+    width:60%;
+    color:black;
+    float:left;
+    text-align:justify;
+    line-height:1.5;
+}
+.abc{
+    background-color:gray;
+    color:white;
+    padding:10px;
+    text-align:justify;
+    margin-top:10px;
+    margin-bottom:30px;
+
+}
+.cll a{
+    color:orangered;
+}
+.tharun{
+    background-color:#e6e6e6;
+    border:1px solid black;
+    padding:5px;
+    margin:5px;
+    margin-bottom:5px;
+    width:110%;
+}
+.right_1{
+    background-color:#35424a;
+    color:white;
+    width:25%;
+    padding: 15px; 
+    float:right;
+    margin-top:40px;
+}
+.button_2{
+    background-color:orangered;
+    color:white;
+    padding:12px;
+    width:100px;
+    border:none;
+    float:left;
+    margin-top:10px;
+
+}
+.right_1  input
+{
+    padding:10px;
+    width:250px;
+}
+
+
+
+    
+
+   
+
+
+    
+
+
+
+
